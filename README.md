@@ -1,4 +1,4 @@
-# Decabot-Username-change
+# Change your username on deca.art
 
 - Login into your profile
 - Open chrome dev tools
