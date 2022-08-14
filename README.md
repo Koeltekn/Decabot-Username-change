@@ -8,7 +8,8 @@
 - Click on the console tab
 - Paste the following
 
-```fetch("https://deca.art/api/web/user", {
+```
+fetch("https://deca.art/api/web/user", {
   "headers": {
     "accept": "*/*",
     "accept-language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,ja;q=0.6,de;q=0.5",
